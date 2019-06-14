@@ -10,7 +10,8 @@ namespace FirstApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("deneme");
+            //second commit
+            Console.WriteLine("deneme"); 
         }
     }
 }
