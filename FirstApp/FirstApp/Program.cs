@@ -12,7 +12,7 @@ namespace FirstApp
         {
             //second commit
             Console.WriteLine("deneme");
-            Console.WriteLine("deneme2");
+            Console.WriteLine("deneme3");
         }
     }
 }
