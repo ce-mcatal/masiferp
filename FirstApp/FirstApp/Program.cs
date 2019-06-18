@@ -14,6 +14,7 @@ namespace FirstApp
             Console.WriteLine("deneme");
             Console.WriteLine("deneme4");
             Console.WriteLine("deneme5");
+            Console.WriteLine("deneme6");
         }
     }
 }
