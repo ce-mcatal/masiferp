@@ -11,7 +11,8 @@ namespace FirstApp
         static void Main(string[] args)
         {
             //second commit
-            Console.WriteLine("deneme"); 
+            Console.WriteLine("deneme");
+            Console.WriteLine("deneme2");
         }
     }
 }
